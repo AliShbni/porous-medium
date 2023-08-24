@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/3D/black with background</title>
+    <g id="VAS-in-PDP-Watches" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-watch-with-VAS_static-with-2-colour-straps_desktop" transform="translate(-169.000000, -611.000000)">
+            <g id="Group" transform="translate(169.000000, 611.000000)">
+                <g id="3D-with-back-ground" transform="translate(-0.000000, -0.000000)">
+                    <g id="R-Arrow" transform="translate(18.500000, 18.500000) rotate(180.000000) translate(-18.500000, -18.500000) " fill="#FFFFFF">
+                        <circle id="Oval" transform="translate(18.500000, 18.500000) rotate(180.000000) translate(-18.500000, -18.500000) " cx="18.5" cy="18.5" r="18.5"></circle>
+                    </g>
+                    <g id="Group" transform="translate(7.000000, 7.000000)">
+                        <g id="3D/black" transform="translate(-0.000000, -0.000000)">
+                            <g id="Group-3" transform="translate(0.000000, 6.436005)">
+                                <path d="M10.1769702,11.9465005 C13.0288565,12.1259342 15.6041058,11.8540115 17.9027181,11.1307324 C19.094131,10.7558436 20.0891414,10.286251 20.8915821,9.75839694 C22.7681132,8.52399474 23.5915343,6.97097708 23.4108595,5.5653966 C23.1529249,3.55876295 20.7890619,1.40332979 15.8519809,0.36658092 C10.9148998,-0.670167951 5.45062105,0.694872509 3.46029562,1.94425022 C1.46997018,3.19362792 -1.17508905,5.16777667 1.47305427,8.66937032" id="Path-22" stroke="#000000" stroke-linecap="round"></path>
+                                <polygon id="Triangle" fill="#000000" transform="translate(2.485704, 9.898018) rotate(145.000000) translate(-2.485704, -9.898018) " points="1.39600348 8.05186411 4.22749763 11.7441718 0.743910542 11.7441718"></polygon>
+                            </g>
+                            <g id="Group-3" transform="translate(11.717603, 11.717603) scale(1, -1) rotate(-90.000000) translate(-11.717603, -11.717603) translate(0.000000, 5.512928)">
+                                <path d="M20.3512277,10.0881774 C22.6093867,8.80880479 23.6080299,7.0993066 23.4108595,5.5653966 C23.1529249,3.55876295 20.7890619,1.40332979 15.8519809,0.36658092 C10.9148998,-0.670167951 5.45062105,0.694872509 3.46029562,1.94425022 C1.46997018,3.19362792 -1.17508905,5.16777667 1.47305427,8.66937032" id="Path-22" stroke="#000000" stroke-linecap="round"></path>
+                                <polygon id="Triangle" fill="#000000" transform="translate(2.485704, 9.898018) rotate(145.000000) translate(-2.485704, -9.898018) " points="1.39600348 8.05186411 4.22749763 11.7441718 0.743910542 11.7441718"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

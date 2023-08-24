@@ -1,0 +1,41 @@
+{
+  "name": "porous-medium",
+  "version": "0.0.1",
+  "description": "Porous medium for geoscience studies",
+  "productName": "Porous Medium",
+  "author": "AliShbni <alishabani.sharif@agmail.com>",
+  "private": true,
+  "scripts": {
+    "icons": "icongenie generate -i app-icon.png --skip-trim",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@tweenjs/tween.js": "^18.6.4",
+    "axios": "^1.3.4",
+    "core-js": "^3.6.5",
+    "quasar": "^1.0.0",
+    "three": "^0.150.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
